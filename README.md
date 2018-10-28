@@ -7,9 +7,8 @@ Designed to imitate the soothing sounds of popular sound machines and sleep mach
 `git clone https://github.com/mykle1/MMM-SoundMachine` into the `~/MagicMirror/modules` directory.`
 
 ## Config.js entry and options
-
+```
 {
-    disabled: f,
     module: 'MMM-SoundMachine',
     header: "",
     position: 'bottom_right',
@@ -18,7 +17,7 @@ Designed to imitate the soothing sounds of popular sound machines and sleep mach
        maxWidth: "300px",     // If you use a header this would help
     }
 },
-
+```
 ## Default sounds
 
 * driving
