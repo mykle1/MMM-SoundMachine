@@ -1,8 +1,6 @@
 # MMM-SoundMachine
 
-Designed to imitate the soothing sounds of popular sound machines on the market.
-
-
+Designed to imitate the soothing sounds of popular sound machines and sleep machines.
 
 ## Installation
 
@@ -11,15 +9,15 @@ Designed to imitate the soothing sounds of popular sound machines on the market.
 ## Config.js entry and options
 
 {
-          disabled: f,
-          module: 'MMM-SoundMachine',
-          header: "",
-          position: 'bottom_right',
-          config: {
-                sounds: '1',                     // See list at bottom of README
-            		maxWidth: "300px",               // If you use a header this would help
-          }
-      },
+    disabled: f,
+    module: 'MMM-SoundMachine',
+    header: "",
+    position: 'bottom_right',
+       config: {
+       sounds: '1',           // See list at bottom of README
+       maxWidth: "300px",     // If you use a header this would help
+    }
+},
 
 ## Default sounds
 
@@ -39,4 +37,3 @@ Designed to imitate the soothing sounds of popular sound machines on the market.
 * The beginning and end of the sound file should sound alike
 * Put the sound files in the MagicMirror/modules/MMM-SoundMachine/sounds folder
 * Put only the name (not the extension) in the config
-
