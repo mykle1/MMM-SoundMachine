@@ -11,13 +11,13 @@ Designed to imitate the soothing sounds of popular sound machines and sleep mach
 ## Config.js entry and options
 
 {
-          disabled: f,
-          module: 'MMM-SoundMachine',
-          header: "",
-          position: 'bottom_right',
-          config: {
-                sounds: '1',                     // See list at bottom of README
-                maxWidth: "300px",               // If you use a header this would help
+  disabled: f,
+  module: 'MMM-SoundMachine',
+  header: "",
+  position: 'bottom_right',
+  config: {
+    sounds: '1',                     // See list at bottom of README
+    maxWidth: "300px",               // If you use a header this would help
           }
       },
 
