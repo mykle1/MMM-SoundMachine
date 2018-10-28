@@ -13,7 +13,7 @@ Designed to imitate the soothing sounds of popular sound machines and sleep mach
     header: "",
     position: 'bottom_right',
        config: {
-       sounds: '1',           // See list at bottom of README
+       sounds: 'rain',           // See list at bottom of README
        maxWidth: "300px",     // If you use a header this would help
     }
 },
