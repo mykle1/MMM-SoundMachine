@@ -9,6 +9,7 @@ It's pretty simple really. It's more about the idea than the complexity of the m
 * One default sound of the rain and beach. (My personal favorite)
 * Pause and play buttons. (Requires the ability to click)
 * Customizable config and css
+* Add your own favorite relaxing mp3 files
 
 ## Caveat
 
