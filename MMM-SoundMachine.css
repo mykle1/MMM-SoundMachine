@@ -9,6 +9,18 @@
 }
 
 .MMM-SoundMachine .sleep {
-  color: white;               /* Age color. Default is white. */
+  color: white;               /* sleep color. Default is white. */
   /*  display: none; */       /* uncomment if you don't want this */
+}
+
+.MMM-SoundMachine .button {
+    background-color: #000000;
+    border: none;
+    color: #000000;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 0px 0px;
+    outline: none;
 }
