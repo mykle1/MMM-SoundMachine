@@ -31,7 +31,7 @@ to this very common problem. So, please acquire your favorite mp3 sounds or use 
 
 
 ## Config.js entry and options
-
+```
 {
     module: 'MMM-SoundMachine',
     header: "",
@@ -41,3 +41,4 @@ to this very common problem. So, please acquire your favorite mp3 sounds or use 
         statement: "SoundMachine",
     }
 },
+```
