@@ -35,7 +35,7 @@ to this very common problem. So, please acquire your favorite mp3 sounds or use 
 ```
 {
     module: 'MMM-SoundMachine',
-    header: "",
+    header: '',
     position: 'bottom center',
     config: {
         sounds: 'Rain&Waves', // Just the name of the mp3, not the extension
